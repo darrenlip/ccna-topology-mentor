@@ -1,0 +1,6 @@
+{
+  "name": "CCNA Topology Mentor & Cisco IOS Automation Engine",
+  "description": "Interactive CCNA Network Architect and Cisco IOS Automation Engine that guides junior network engineers step-by-step through simple-to-intermediate network topologies—covering physical cabling, multi-block VLSM subnetting, annotated Cisco IOS CLI configurations, live CLI simulation, and verification labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
